@@ -199,4 +199,6 @@ HU-04
 HU-05
 
 Criterio de selección:
-Al crear las historias de usuario se ordenaron por dependencia y por prioridad durante el desarrollo del proyecto.
+Se priorizaron estas 5 historias de usuario por ser las funcionalidades base
+del sistema, sin las cuales las demás HUs no pueden desarrollarse. Representan
+el núcleo mínimo viable del producto para este sprint.
