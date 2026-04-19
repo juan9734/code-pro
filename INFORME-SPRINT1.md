@@ -108,3 +108,9 @@ los datos son escasos y no representan un flujo de trabajo real de equipo.
 
 - [Issue #1 — HU-01: Diseño de identidad visual y sistema de diseño](https://github.com/juan9734/code-pro/issues/1)
 - [Issue #2 — HU-02: Sección hero con propuesta de valor clara](https://github.com/juan9734/code-pro/issues/2)
+
+---
+
+## 6. Video de Avance Sprint 1
+
+https://corhuilaeduco-my.sharepoint.com/:v:/g/personal/juanninco_20182_corhuila_edu_co/IQA35dljZaClQrk4-DZe9D5rAfvA4NoHaCrr_xQmw46WU0k?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=0Z2tlq
